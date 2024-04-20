@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(163, 163, 163);
+  background-color: rgb(184, 184, 184);
 }
 
 @font-face {
@@ -227,3 +227,12 @@ body {
 }
 
 /* IMAGE ELEMENTS ENDS HERE BELOW */
+
+
+@media (max-width:588px){
+    .menu-background{
+        height: 1100px;
+    }
+
+}
+
