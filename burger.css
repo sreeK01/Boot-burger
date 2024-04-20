@@ -92,6 +92,7 @@ body {
 }
 
 .card-title {
+  margin-top: 20px;
   margin-left: 110px;
 }
 
@@ -229,10 +230,38 @@ body {
 /* IMAGE ELEMENTS ENDS HERE BELOW */
 
 
-@media (max-width:588px){
+@media (max-width:702px){
     .menu-background{
         height: 1100px;
     }
 
 }
 
+@media (min-width:596px){
+  .menu-background{
+      height: 800px;
+  }
+
+}
+
+@media (max-width:475px){
+  .menu-background{
+      height: 1750px;
+  }
+
+}
+
+
+@media (min-width:815px){
+  .menu-background{
+      height: 580px;
+  }
+
+}
+
+@media (min-width:1279px){
+  .menu-background{
+      height: 350px;
+  }
+
+}
