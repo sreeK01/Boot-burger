@@ -88,3 +88,8 @@ body {
 
   transform: scaleY(0.9);
 }
+
+.menu-background{
+    width: 100%;
+    height: 350px;
+}
