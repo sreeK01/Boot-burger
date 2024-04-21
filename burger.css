@@ -302,14 +302,13 @@ body {
 /* 
 FOOTER */
 
-
-
-
-
-.container{
-	max-width: 1170px;
-	margin:auto;
+.footer{
+  font-family: "flame-regular";
 }
+
+
+
+
 .row{
 	display: flex;
 	flex-wrap: wrap;
@@ -319,11 +318,11 @@ ul{
 }
 .footer{
 	background-color: #323231;
-    padding: 70px 0;
+    margin: 70px 0;
 }
 .footer-col{
    width: 25%;
-   padding: 0 15px;
+   /* padding: 0 15px; */
 }
 .footer-col h4{
 	font-size: 18px;
