@@ -303,6 +303,20 @@ body {
 
 
 
+
+
+.footer-section{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #323231;
+  margin-top: 50px;
+  width: 100%;
+
+  width: auto;
+}
+
+
+
 /* FOOTER STARTS FROM HERE */
 
 .footer-container {
@@ -459,14 +473,6 @@ ol {
 
 .youtube {
   margin-left: 20px;
-}
-
-.footer-section{
-  background-color: #323231;
-  margin-top: 50px;
-  width: 100%;
-
-  width: auto;
 }
 
 
