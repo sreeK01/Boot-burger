@@ -9,8 +9,8 @@ body {
 
 .header-logo {
   /* margin-left: 80px; */
-  width: 80px;
-  height: 80px;
+  width: 35px;
+  height: 40px;
 }
 
 .navbar {
@@ -18,8 +18,47 @@ body {
   flex-wrap: wrap;
   background-color:white;
 
+  min-height: 75px;
+
+
+  
+  /* max-height: auto; */
+
+
+
+
+
+
+ /* max-width: 100%;
+  height: auto; */
+
+
+
+
   font-family: "flame-regular";
+  
 }
+
+
+
+
+
+nav a {
+/* TO control NAVBAR LOGO */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* TOGGLE BUTTON */
 
@@ -52,6 +91,11 @@ body {
   letter-spacing: 0.2px;
   color: #e70;
 }
+
+
+
+
+
 
 .search-bar {
   display: flex;
