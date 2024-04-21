@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(184, 184, 184);
+  background-color: #f8f6f3;
 }
 
 @font-face {
@@ -16,6 +16,7 @@ body {
 .navbar {
   display: flex;
   flex-wrap: wrap;
+  background-color:white;
 
   font-family: "flame-regular";
 }
@@ -270,6 +271,8 @@ body {
   color: #ffffff;
   font-family: "Flame-Regular", sans-serif;
   font-size: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 
   font-weight: 400;
 }
@@ -279,7 +282,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background-color: red;
+  /* background-color: red; */
   /* gap: 50px; */
 }
 
