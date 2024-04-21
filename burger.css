@@ -282,7 +282,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background-color: red;
+  /* background-color: red; */
   /* gap: 50px; */
 }
 
