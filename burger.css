@@ -43,13 +43,17 @@ body {
 
 
 
-nav a {
-/* TO control NAVBAR LOGO */
+/* nav a {
+
+  To control header logo
+} */
+
+
+
+
+.nearby{
+  margin-left: 100px;
 }
-
-
-
-
 
 
 
@@ -97,31 +101,26 @@ nav a {
 
 
 
+
 .search-bar {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #8d6a26;
+  background-color: #fbfaf8;
   width: 310px;
   height: 42px;
-  margin-left: 10px;
+  margin-left: 50px;
   border-radius: 200px;
 }
 
 .search-text {
+
   font-family: "FlameSans-Regular", sans-serif;
   font-size: 14px;
   font-weight: 600;
   font-style: normal;
-  font-variant: normal;
-  font-kerning: auto;
-  font-optical-sizing: auto;
-  font-stretch: 100%;
-  font-variation-settings: normal;
-  font-feature-settings: normal;
-  text-transform: none;
-  text-decoration: none solid #000000;
-  text-align: start;
+
+  
   text-indent: 0px;
   color: rgb(63, 63, 63);
 
@@ -131,6 +130,7 @@ nav a {
   letter-spacing: normal;
   word-spacing: 0px;
   padding: 4px 10px 0px;
+  margin-top: 15px;
 
   transform: scaleY(0.9);
 }
@@ -419,6 +419,20 @@ ul{
 	color: #24262b;
 	background-color: #ffffff;
 }
+
+
+
+.footer-col{
+  margin-top: 80px;
+}
+
+
+
+
+
+
+
+
 
 /*responsive*/
 @media(max-width: 767px){
