@@ -292,3 +292,167 @@ body {
   max-width: 100%;
   height: auto;
 }
+
+
+
+
+
+
+
+/* FOOTER STARTS FROM HERE */
+
+.footer-container {
+  background-color: #323232;
+  width: 1519px;
+  height: 303px;
+  color: rgb(170, 170, 170);
+  display: flex;
+
+  font-family: "FlameSans-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 24.05px;
+  letter-spacing: normal;
+  word-spacing: -2px;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
+  font-kerning: auto;
+  font-optical-sizing: auto;
+  font-stretch: 100%;
+  font-variation-settings: normal;
+  font-feature-settings: normal;
+  text-transform: none;
+  text-decoration: none;
+}
+
+ul li:not([class]) {
+  filter: blur(0.45px);
+  color: rgb(213, 213, 213);
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+.list-title {
+  color: rgb(255, 255, 255);
+  font-family: "Flame-Regular", sans-serif;
+  font-size: 16px;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  word-spacing: 0px;
+  margin: 0;
+  padding: 0 0 20px;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  font-kerning: auto;
+  font-optical-sizing: auto;
+  font-stretch: 100%;
+  font-variation-settings: normal;
+  font-feature-settings: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-top: 74px;
+}
+
+.app-store {
+  position: left;
+}
+
+.google-play {
+  margin-left: 12px;
+}
+
+.bk-info {
+  margin-left: 71px;
+}
+
+.contact {
+  position: left;
+  margin-left: 82px;
+}
+
+.bk-cares {
+  margin-left: 91px;
+}
+
+.legal {
+  margin-left: 88px;
+}
+
+.download {
+  margin-left: 80px;
+}
+
+.footer-2 {
+  background-color: #323231;
+  width: 1519px;
+  height: 120px;
+}
+
+.hr-line {
+  display: flex;
+  background-color: rgb(85, 85, 85);
+  width: 1335px;
+  height: 1.5px;
+  margin-left: 88px;
+}
+
+.bottom-icon {
+  display: flex;
+  width: 38px;
+  height: 36px;
+  margin-left: 123px;
+  size: 50px;
+  margin-top: 28px;
+}
+
+.bottom-container {
+  display: flex;
+}
+
+.bottom-text {
+  display: flex;
+  margin-left: 507px;
+  margin-top: -50px;
+  color: white;
+
+  font-family: "Flame-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: 100%;
+  line-height: 24px;
+  letter-spacing: 0.8px;
+  word-spacing: 0px;
+  text-transform: none;
+  text-decoration: none;
+
+  font-kerning: auto;
+  font-optical-sizing: auto;
+  font-variation-settings: normal;
+  font-feature-settings: normal;
+}
+
+.social-media-icons {
+  display: flex;
+  margin-left: 1204px;
+  margin-top: -59px;
+}
+
+.instagram {
+  margin-left: 20px;
+}
+
+.twitter {
+  margin-left: 20px;
+}
+
+.youtube {
+  margin-left: 20px;
+}
